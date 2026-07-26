@@ -11,7 +11,6 @@ The notebook focuses on data cleaning and exploratory data analysis (EDA) for a 
 - Load the dataset
 - Inspect data quality
 - Remove irrelevant columns
-- Prepare the dataset for further analysis
 
 ## Tools
 
